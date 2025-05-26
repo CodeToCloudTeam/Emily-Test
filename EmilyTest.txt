@@ -1,2 +1,1 @@
-val password = "abcd1
-var path = https://maps.googleapis.com/maps/api/js?key=AIzaSyDoe6Jk2K-NiId2g1IxAqOxf4SewjLCXeY&callback=initMap"
+Password=ekjrghrg12536154eart12
