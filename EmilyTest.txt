@@ -8,4 +8,5 @@ AKIDmQzMWWIp8IExSmvrZ6Rccsdfsdfsrfws
 AKIDAIHkxj9q6aelfaoZ2o41jNq9mvdbUQPh
 
 IKIDmQzMWWIp8IExSmvrZ6RccOxIPHwNaZKt
+password             = "foobarbaz"
 
